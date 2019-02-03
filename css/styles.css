@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+.locateus {
+	vertical-align:baseline;
+	margin-top:30px;
+	margin-left:5px;
+}
+
+.locate {
+	float:left;	
+	margin-left: 40px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Source Sans Pro', sans-serif;	
+}
+
+p {
+font-family: 'Lora', serif;	
+line-height:1.8;
+}
+
+a:link {
+    color: white;
+		text-decoration: none;	
+}
+
+/* visited link */
+a:visited {
+    color: white;
+		text-decoration: none;	
+}
+
+/* mouse over link */
+a:hover, a:focus {
+    color: #ccc;
+		text-decoration: none;	
+}
+
+/* selected link */
+a:active {
+    color: #808080;
+		text-decoration: none;	
+}
+
+.marketingbg {
+	background-image:url("../images/contentbg.jpg");
+	 background-size: 100% auto;
+}
+
+.whitetext {
+	color: white!important;	
+}
+
+.btn-default {
+	color:black!important;	
+}
+
+.secondarynav {
+	margin-bottom:0px!important;	
+}
+
+.breadcrumb a {
+	color:black;
+}
+
+.pager a {
+	color:#666;	
+}
+
+.darklinks a {
+	color:#666;	
+}
+
+.socialicon {
+	float:left;
+	margin-right:120px;	
+	margin-bottom:60px;
+}
+
+.socialicon img{
+	width:50px;
+	height:50px;
+}
+
+footer {
+	margin-top:15px;	
+}
+
+footer h4 {
+	font-weight:900;	
+}
+
+footer ul {
+	list-style:none;
+	display:inline-block;
+	float:left;
+}
+
+footer ul li {
+	padding-top: 3px;	
+}
+
+footer p {
+	clear:both;	
+}
+
+.footerbg {
+	background-color: #CCC;	
+}
+
+footer a:hover {
+	color: #000;	
+}
+
+footer img:hover {
+	opacity: .5;
+}
