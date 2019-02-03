@@ -5,7 +5,7 @@
 
 [View site on Heroku](https://gfw-timothys-design.herokuapp.com/index.html)
 
-![Website Mockup](wireframing/Website_Prototype.jpg?raw=true "Website Mockup")
+![Website Mockup](wireframing/Webpage_Prototype.jpg?raw=true "Website Mockup")
 
 ___
 2018 - Created by Adam Morelli as part of [The Complete React Web Developer Course](https://www.udemy.com/react-2nd-edition/)
